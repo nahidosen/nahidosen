@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nahidosen
+- 👋 Hi, I’m Nahid
 - 👀 I’m interested in AI, ML, DL, Web technologies.
-- 🌱 I’m currently learning ML, Software Engineering.
-- 💞️ I’m looking to collaborate on Games, ML, Web App related projects.
+- 🌱 I’m currently learning Deep Learning, Django.
+- 💞️ I’m looking to collaborate on Games, AI, Web App related projects.
 - 📫 How to reach me ... search nahidosen to find me.
 
 <!---
